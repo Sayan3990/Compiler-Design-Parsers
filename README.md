@@ -1,4 +1,4 @@
-# JSMachines
+# Compiler Design Parsers
 
 [JSMachines](https://yinonburgansky.github.io/JSMachines/) from [sourceforge](https://sourceforge.net/projects/jsmachines/) fixed on [Github](https://github.com/yinonburgansky/JSMachines/)
 
