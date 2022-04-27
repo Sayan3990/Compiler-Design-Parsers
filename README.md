@@ -5,3 +5,4 @@
 - [LALR(1)](https://yinonburgansky.github.io/JSMachines/lalr1.html)
 - [LR(1)](https://yinonburgansky.github.io/JSMachines/lr1.html)
 - [Turing](https://yinonburgansky.github.io/JSMachines/turing.html)
+- [DFA, Left Factoring and more](https://cyberzhg.github.io/toolbox/)
